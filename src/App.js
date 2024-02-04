@@ -7,13 +7,14 @@ import Home from './components/Home';
 
 function App() {
   return (
-    <BrowserRouter>
-    <div className="flex h-full min-h-[100vh]">
-      <Routes>
-        <Route path='/' element={<Home />} />
-      </Routes>
-    </div>
-  </BrowserRouter>
+  //   <BrowserRouter>
+  //   <div className="flex h-full min-h-[100vh]">
+  //     <Routes>
+  //       <Route path='/' element={<Home />} />
+  //     </Routes>
+  //   </div>
+  // </BrowserRouter>
+  <Home/>
   );
 }
 
