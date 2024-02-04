@@ -2,7 +2,7 @@
 
 **Where Music Finds Its Voice**
 
-![LyricsLayer Logo](/public/imgs/logo3-sec.png.png)
+![LyricsLayer Logo](/public/imgs/logo3-sec.png)
 
 ## About
 
